@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KONEY
 - 👀 I’m interested in AMIGA ASM and ARexx
-- 🌱 I’m currently learning Amiga Hardware
-- 💞️ I’m looking to collaborate on Amiga Demos
-- 📫 How to reach me koney@koney.org
+- 🌱 I'm part of DESiRE group
+- 💞️ I’m looking for collabs in Amiga Demoscene
+- 📫 How to reach me: koney@koney.org
 
 <!---
 KONEY/KONEY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
