@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KONEY
-- 👀 I’m interested in AMIGA ASM and ARexx
-- 🌱 I'm part of DESiRE group
-- 💞️ I’m looking for collabs in Amiga Demoscene
+- 👋 Hi, @KONEY here
+- 👀 interested in AMIGA ASM and ARexx
+- 🌱 Member of DESiRE demo group
+- 💞️ Loking for collabs in Amiga Demoscene
 - 📫 How to reach me: koney@koney.org
 
 <!---
